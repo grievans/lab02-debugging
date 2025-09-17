@@ -1,6 +1,7 @@
 # My Submission
 
 Griffin Evans
+  Didn't really directly work with another team member per se but I should note I did talk some with others (e.g. Avi, Ruben) at the same table cluster and was influenced in what I looked for some by what other people were talking about.
 
 [Shadertoy link](https://www.shadertoy.com/view/tclBDf)
 
